@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/momentum-React/static/css/main.43ee6976.css",
+    "main.js": "/momentum-React/static/js/main.eeefdfda.js",
+    "static/media/background1.jpg": "/momentum-React/static/media/background1.8d25131c90f3f381bc2e.jpg",
+    "index.html": "/momentum-React/index.html",
+    "main.43ee6976.css.map": "/momentum-React/static/css/main.43ee6976.css.map",
+    "main.eeefdfda.js.map": "/momentum-React/static/js/main.eeefdfda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ee6976.css",
+    "static/js/main.eeefdfda.js"
+  ]
+}

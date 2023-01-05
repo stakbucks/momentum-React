@@ -1,0 +1,28 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.weather {
+  text-align: center;
+  height: 40px;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  color: blue;
+}
+
+.logout {
+  text-align: center;
+  height: 40px;
+  width: 70px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: blue;
+}
